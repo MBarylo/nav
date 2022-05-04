@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(/img/1616525300_1-p-krutoi-fon-1.jpg) no-repeat center;
+    background-size: cover;
+    font-family: 'Tapestry', cursive;
+}
+.nav{
+
+    background-color: #fff;
+    height: 2500px;
+    border-radius: 40px;
+    width: 2000px;
+    margin: 150px auto;
+
+
+}
+.h1{
+    font-size: 200px;
+    color: #fff;
+    width: auto;
+    text-align: center;
+}
+.put{
+    height: 20px;
+    width: 2000px;
+    background-color: #fff;
+    margin: 150px auto;
+
+}
+.p1{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(224, 28, 28);
+    border-radius: 40px ;
+    position: relative;
+    bottom: 20px;
+    right: 10px;
+}
+.p2{
+    height: 60px;
+    width: 60px;
+    background-color: #fff;
+    border-radius: 40px ;
+    position: relative;
+    bottom: 80px;
+    left: 500px;
+}
+.p3{
+    height: 60px;
+    width: 60px;
+    background-color: #fff;
+    border-radius: 40px ;
+    position: relative;
+    bottom: 140px;
+    left: 1000px;
+}
+.p4{
+    height: 60px;
+    width: 60px;
+    background-color: #fff;
+    border-radius: 40px ;
+    position: relative;
+    bottom: 200px;
+    left: 1500px;
+}
+.p5{
+    height: 60px;
+    width: 60px;
+    background-color: #fff;
+    border-radius: 40px ;
+    position: relative;
+    bottom: 260px;
+    left: 1980px;
+}
+p{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 120px;
+    padding: 200px;
+}
+.input{
+    text-align: 100px;
+    padding: 20px;
+    font-size: 100px;
+    border-radius: 40px;
+    position: relative;
+    left: 200px;
+    width: 1600px;
+}
+.input1{
+    text-align: 100px;
+    padding: 20px;
+    font-size: 100px;
+    border-radius: 40px;
+    position: relative;
+    left: 200px;
+    top: 200px;
+    width: 1600px;
+}
+.input2{
+    text-align: 100px;
+    padding: 20px;
+    font-size: 100px;
+    border-radius: 40px;
+    position: relative;
+    left: 200px;
+    top: 400px;
+    width: 1600px;
+}
+.input3{
+    text-align: 100px;
+    padding: 20px;
+    font-size: 100px;
+    border-radius: 40px;
+    position: relative;
+    left: 200px;
+    top: 600px;
+    width: 1600px;
+}
+.input4{
+    text-align: 100px;
+    padding: 20px;
+    font-size: 100px;
+    border-radius: 40px;
+    position: relative;
+    left: 200px;
+    top: 800px;
+    width: 1600px;
+}
+.input5{
+    text-align: 100px;
+    padding: 20px;
+    font-size: 100px;
+    border-radius: 40px;
+    background-color: rgb(238, 16, 16);
+    width: 450px;
+}
+.input5:hover{
+    
+    color: #fff;
+    background: #333;
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear; 
+}
+.input5:active {
+    vertical-align: middle;
+    color: #01a715;
+}
+
+.btn{
+    width: auto;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
