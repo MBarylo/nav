@@ -10,132 +10,95 @@ body{
 }
 .nav{
 
-    background-color: rgb(38, 35, 218);
-    height: 2500px;
+    background-color: #fff;
+    height: 297px;
     border-radius: 40px;
-    width: 2000px;
+    width: 210px;
     margin: 150px auto;
 
 
 }
+
+
 .h1{
-    font-size: 200px;
-    color: rgb(216, 37, 37);
-    width: auto;
+    font-size: 2em;
+    color: #fff;
+    width: 100%;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20em;
+    margin-right: 20em;
 }
-.put{
-    height: 20px;
-    width: 2000px;
-    background-color: #fff;
-    margin: 150px auto;
 
-}
-.put2{
-    height: 20px;
-    width: 510px;
-    background-color: rgb(224, 28, 28);
-    position: relative;
-    bottom: 80px;
-    top: 2px;
-}
-.p1{
-    height: 60px;
-    width: 60px;
-    background-color: rgb(224, 28, 28);
-    border-radius: 40px ;
-    position: relative;
-    bottom: 40px;
-    right: 10px;
-}
-.p2{
-    height: 60px;
-    width: 60px;
-    background-color: rgb(224, 28, 28);
-    border-radius: 40px ;
-    position: relative;
-    bottom: 100px;
-    left: 500px;
-}
-.p3{
-    height: 60px;
-    width: 60px;
-    background-color: #fff;
-    border-radius: 40px ;
-    position: relative;
-    bottom: 160px;
-    left: 1000px;
-}
-.p4{
-    height: 60px;
-    width: 60px;
-    background-color: #fff;
-    border-radius: 40px ;
-    position: relative;
-    bottom: 220px;
-    left: 1500px;
-}
-.p5{
-    height: 60px;
-    width: 60px;
-    background-color: #fff;
-    border-radius: 40px ;
-    position: relative;
-    bottom: 280px;
-    left: 1980px;
-}
+
 p{
     font-family: 'Oleo Script Swash Caps', cursive;
-    font-size: 120px;
-    padding: 200px;
+    font-size: 1em;
+
+    position: relative;
+    top: 1em;
+    left: 1em;
 }
 .input{
-    text-align: 100px;
-    padding: 20px;
-    font-size: 100px;
+    text-align: 10em;
+    padding: 0.5em;
+    font-size: 1em;
     border-radius: 40px;
     position: relative;
-    left: 200px;
-    width: 1600px;
+    left: 1em;
+    top: 1.5em;
+    width: 10em;
 }
 .input1{
-    text-align: 100px;
-    padding: 20px;
-    font-size: 100px;
+    text-align: 10em;
+    padding: 0.5em;
+    font-size: 1em;
     border-radius: 40px;
     position: relative;
-    left: 200px;
-    top: 200px;
-    width: 1600px;
+    left: 1em;
+    top: 2em;
+    width: 10em;
 }
 .input2{
-    text-align: 100px;
-    padding: 20px;
-    font-size: 100px;
+    text-align: 10em;
+    padding: 0.5em;
+    font-size: 1em;
     border-radius: 40px;
     position: relative;
-    left: 200px;
-    top: 400px;
-    width: 1600px;
+    left: 1em;
+    top: 2.5em;
+    width: 10em;
 }
 .input3{
-    text-align: 100px;
-    padding: 20px;
-    font-size: 100px;
+    text-align: 10em;
+    padding: 0.5em;
+    font-size: 1em;
     border-radius: 40px;
     position: relative;
-    left: 200px;
-    top: 600px;
-    width: 1600px;
+    left: 1em;
+    top: 3em;
+    width: 10em;
+}
+.input4{
+    text-align: 10em;
+    padding: 0.5em;
+    font-size: 1em;
+    border-radius: 40px;
+    position: relative;
+    left: 1em;
+    top: 4em;
+    width: 10em;
 }
 .input5{
-    text-align: 100px;
-    padding: 20px;
-    font-size: 100px;
+    text-align: 10em;
+    position: relative;
+    bottom: 8em;
+    font-size: 1em;
     border-radius: 40px;
     background-color: rgb(238, 16, 16);
-    width: 450px;
-
+    width: 10em;
 }
 .input5:hover{
     
@@ -149,20 +112,17 @@ p{
     vertical-align: middle;
     color: #01a715;
 }
-a{
-    text-decoration: none;
-}
 .input6{
-    margin-right: 200px;
-    text-align: 100px;
-    padding: 20px;
-    font-size: 100px;
+    text-align: 10em;
+    position: relative;
+    bottom: 8em;
+    font-size: 1em;
     border-radius: 40px;
     background-color: rgb(238, 16, 16);
-    width: 450px;
+    width: 10em;
 }
 .input6:hover{
-
+    
     color: #fff;
     background: #333;
     transition: all .3s linear;
@@ -176,5 +136,7 @@ a{
 .btn{
     width: auto;
     text-align: center;
-
+}
+a{
+    text-decoration: none;
 }
